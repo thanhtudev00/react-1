@@ -48,10 +48,10 @@ function App() {
       </header> */}
 
       {/* Render Todofeature */}
-      {/* <TodoFeature/> */}
+      <TodoFeature/>
 
       {/* Render Album */}
-      <AlbumFeature/>
+      {/* <AlbumFeature/> */}
     </div>
   );
 }
